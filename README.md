@@ -95,13 +95,11 @@ fun_fact:  "I enjoy turning messy ideas into clean, working products"
 ## Contribution Graph
 
 <div align="center">
-
-<!--START_SECTION:activity-->
-<img src="https://raw.githubusercontent.com/prathyushcm/prathyushcm/output/github-contribution-grid-snake.svg" width="100%" alt="Snake animation — replace after enabling the contribution-snake GitHub Action" />
-<!--END_SECTION:activity-->
-
-<sub>Snake animation renders once the <a href="https://github.com/Platane/snk">contribution-snake workflow</a> is added to this repo</sub>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prathyushcm/prathyushcm/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prathyushcm/prathyushcm/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/prathyushcm/prathyushcm/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 <br/>
