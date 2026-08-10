@@ -165,11 +165,12 @@ End-to-end product with clean UX, MySQL data layer, and Dockerized deploy.
 ## Achievements
 
 <div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=prathyushcm&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS)
-![GitHub Followers](https://img.shields.io/github/followers/prathyushcm?style=for-the-badge&color=38BDF8&labelColor=0d1117)
-![Trophy](https://github-profile-trophy.vercel.app/?username=prathyushcm&theme=darkhub&no-frame=true&row=1&column=6)
-
+  <img src="https://komarev.com/ghpvc/?username=prathyushcm&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/prathyushcm?logo=github&style=flat&color=0e75b6&label=Followers" alt="GitHub Followers" />
+  <br><br>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=prathyushcm&theme=radical&row=1&column=7&no-frame=true&no-bg=true" alt="prathyushcm trophies" />
+  </a>
 </div>
 
 <br/>
