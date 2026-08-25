@@ -59,7 +59,33 @@ fun_fact:  "I enjoy turning messy ideas into clean, working products"
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="50%"><div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=PRATHYUSH%20C%20M&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AIML%20Engineering%20Student%20%26%20Developer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+scalable+AI-native+web+apps;Artificial+Intelligence+%7C+Machine+Learning;Computer+Vision+%7C+Deep+Learning;Always+learning.+Always+building." alt="Typing SVG" />
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/prathyush-cm-6208b0320/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:prathyu452@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/prathyushcm"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</div>
+
+<br/>
+
+## About Me
+
+```yaml
+name:      "Prathyush C M"
+role:      "AIML Engineering Student & AI Developer"
+location:  "India"
+focus:     ["Artificial Intelligence", "Machine Learning", "Computer Vision", "Full-Stack Web"]
+currently: "Building end-to-end AI applications and exploring System Design"
+fun_fact:  "I enjoy turning messy ideas into clean, working products"
 
 **Backend & Tools**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
