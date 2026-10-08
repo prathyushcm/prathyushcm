@@ -1,75 +1,21 @@
-# Hi there, I'm Prathyush C M 👋
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prathyush-cm-6208b0320/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prathyushcm)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prathyyu452@gmail.com)
-
----
-
-### 👨‍💻 About Me
-
-- 🎓 **Undergraduate Student** in Computer Science & Engineering (Artificial Intelligence & Machine Learning).
-- 💡 Passionate about building **autonomous agent swarms, applied computer vision pipelines, and full-stack software systems**.
-- 🛠️ Experienced in building production systems with **Next.js, Python, multi-agent LLM architectures, and cloud deployments**.
-- 🌐 Former **Google Student Ambassador**, actively contributing to campus tech communities and developer outreach.
-
----
-
-### 🛠️ Tech Stack & Tooling
-
-#### Languages & Core Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-#### AI, Machine Learning & Computer Vision
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Gemini API](https://img.shields.io/badge/Google_Gemini-8E75C2?style=flat-square&logo=googlegemini&logoColor=white)
-![CNNs](https://img.shields.io/badge/Deep_Learning-CNNs-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+# 💫 About Me:
+🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
 
-#### Databases & Cloud Services
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prathyush-cm-6208b0320/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@PRATHYUSH CM) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prathyu452@gmail.com) 
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=prathyushcm&theme=prussian&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=prathyushcm&theme=prussian&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=prathyushcm&theme=prussian&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=prathyushcm&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
+[![](https://komarev.com/ghpvc/?username=prathyushcm&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🚀 Featured Projects
-
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| **EscrowAI** | Autonomous multi-agent escrow engine combining AST parsing, Gemini evaluation, and Razorpay rails to automate PR audits and bounty payouts. | `TypeScript` • `Gemini API` • `Node.js` • `Razorpay` • `AST` |
-| **Onyx** | AI-native technical assessment platform with AST-driven code evaluation, multi-agent LLM interviewers, and speech telemetry. | `Next.js` • `Python` • `AST` • `WebRTC` • `LLM Agents` |
-| **Schedify** | Multi-portal timetable management platform with role-based access for department admins, faculty, and students. | `Next.js` • `Node.js` • `Supabase` • `Tailwind CSS` • `PostgreSQL` |
-| **AI Sports Strategy Analyzer** | Computer vision engine analyzing game footage, identifying team formations via CNNs, and providing tactical counter-strategies. | `Python` • `OpenCV` • `Flask` • `TensorFlow` • `Chart.js` |
-| **Safe Reach** | Off-grid disaster response system with Wi-Fi probe sniffing, LoRa transmitters, and Raspberry Pi ground station integration. | `Python` • `Embedded Systems` • `LoRa` • `Raspberry Pi` • `Flask` |
-
----
-
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prathyushcm&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prathyushcm&theme=dracula&hide_border=true" alt="GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathyushcm&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages" width="60%" />
-</p>
-
----
-
-<p align="center">
-  <i>Open to collaborations on AI agents, developer tooling, and innovative systems engineering.</i>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
