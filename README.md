@@ -26,6 +26,8 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 #### AI, Machine Learning & Computer Vision
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
@@ -47,23 +49,23 @@
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **EscrowAI** | Autonomous multi-agent escrow engine combining AST parsing, Gemini evaluation, and Razorpay rails to automate PR audits and bounty payouts. | `TypeScript` `Gemini API` `Node.js` `Razorpay` |
-| **Onyx** | AI-native technical assessment platform with AST-driven code evaluation, multi-agent LLM interviewers, and speech telemetry. | `Next.js` `Python` `AST` `WebRTC` |
-| **Schedify** | Multi-portal timetable management platform with role-based access for department admins, faculty, and students. | `Next.js` `Node.js` `Supabase` `Tailwind CSS` |
-| **AI Sports Strategy Analyzer** | Computer vision engine analyzing game footage, identifying team formations via CNNs, and providing tactical counter-strategies. | `Python` `OpenCV` `Flask` `Chart.js` |
-| **Safe Reach** | Off-grid disaster response system with Wi-Fi probe sniffing, LoRa transmitters, and Raspberry Pi ground station integration. | `Embedded Systems` `LoRa` `Raspberry Pi` `Python` |
+| **EscrowAI** | Autonomous multi-agent escrow engine combining AST parsing, Gemini evaluation, and Razorpay rails to automate PR audits and bounty payouts. | `TypeScript` • `Gemini API` • `Node.js` • `Razorpay` • `AST` |
+| **Onyx** | AI-native technical assessment platform with AST-driven code evaluation, multi-agent LLM interviewers, and speech telemetry. | `Next.js` • `Python` • `AST` • `WebRTC` • `LLM Agents` |
+| **Schedify** | Multi-portal timetable management platform with role-based access for department admins, faculty, and students. | `Next.js` • `Node.js` • `Supabase` • `Tailwind CSS` • `PostgreSQL` |
+| **AI Sports Strategy Analyzer** | Computer vision engine analyzing game footage, identifying team formations via CNNs, and providing tactical counter-strategies. | `Python` • `OpenCV` • `Flask` • `TensorFlow` • `Chart.js` |
+| **Safe Reach** | Off-grid disaster response system with Wi-Fi probe sniffing, LoRa transmitters, and Raspberry Pi ground station integration. | `Python` • `Embedded Systems` • `LoRa` • `Raspberry Pi` • `Flask` |
 
 ---
 
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prathyushcm&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prathyushcm&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prathyushcm&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prathyushcm&theme=dracula&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathyushcm&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathyushcm&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages" width="60%" />
 </p>
 
 ---
